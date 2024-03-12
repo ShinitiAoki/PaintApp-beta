@@ -4,12 +4,10 @@ This is a simple paint app made using OpenGL and C++. OpenGL was required from t
 ## How to run it?
 install dependencies:
 
-``
 
     sudo apt-get install freeglut3 freeglut3-dev libglew-dev
     sudo apt-get install mesa-utils
     
-``
 
 then, in the project folder, just run:
 
